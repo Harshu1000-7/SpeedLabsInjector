@@ -10,7 +10,6 @@ print('Then Click this window(command prompt), and click chrome and alt-tab to t
 print('To check if everything is set-up, doing alt-tab will switch between you from this window(command prompt) and chrome')
 print('You have to return to this window after everything works, and start the program ')
 print(' ')
-print('Tutorial: ')
 print('AND DO NOT PRESS ANYTHING WHEN YOU HAVE STARTED THE PROGRAM')
 print('==================================================================================================================')
 print('Start[1]')
@@ -22,7 +21,7 @@ if x == '4':
     print('Bye')
 
 if x == '3':
-    print('Copy This Link: ')
+    print('Copy This Link: https://youtu.be/poxodcDH1hs ')
     print('and this window will close in 10 seconds, to run it start again after seeing tutorial')
     time.sleep(5)
 
